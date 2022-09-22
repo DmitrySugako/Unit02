@@ -13,7 +13,7 @@ public class Task09 {
 			fx = 1 / Math.pow(x, 2) + 1;
 			System.out.println(fx);
 		} else {
-			System.out.println("Диапазон некоректен");
+			System.out.println("Диапазон некорректен");
 		}
 
 	}
