@@ -3,9 +3,9 @@ package lt.lhu.unit02.main;
 public class Task05 {
 
 	public static void main(String[] args) {
-		double a = 2;
-		double b = 2;
-		double c = 2;
+		double a = 12;
+		double b = 22;
+		double c = 27;
 		double result;
 
 		if (a == 0) {
