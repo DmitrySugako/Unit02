@@ -3,7 +3,7 @@ package lt.lhu.unit02.main;
 public class Task09 {
 
 	public static void main(String[] args) {
-		double x = -2;
+		double x = 6;
 		double fx;
 
 		if (x <= -3) {
